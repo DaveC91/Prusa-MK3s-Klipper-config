@@ -11,6 +11,8 @@ This config uses KAMP, which I recommend installing as it is a much more efficie
 NOTE: I can't take credit for these files as I have combined them from various other repos, I only intend to share the config that is currently working for me.
 
 
+Klipper - https://www.klipper3d.org/
+Mainsail - https://docs.mainsail.xyz/
 KAMP - https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 dz0ny - https://github.com/dz0ny/klipper-prusa-mk3s
 prusaowners - https://github.com/PrusaOwners/prusaowners/blob/master/Klipper.md
