@@ -1,8 +1,11 @@
 NOTE: This is a work in progress and will be updated occasionally.
 
 Here is a current working config for Klipper on Prusa MK3s+ as of late 2024. This includes homing, probe and basic macros. 
+
 I have not tested this config with any other non-stock parts. This config is relevant to RPi port on Prusa's Einsy board using a Raspberry Pi Zero 2W.
+
 This config is copied from various repos, which will be linked below.
+
 This config uses KAMP, which I recommend installing as it is a much more efficient way of getting a bed mesh before a print starts.
 
 NOTE: I can't take credit for these files as I have combined them from various other repos, I only intend to share the config that is currently working for me.
