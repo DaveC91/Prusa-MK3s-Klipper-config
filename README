@@ -1,0 +1,2 @@
+Here is a current working config for Klipper on Prusa MK3s+ as of late 2024. This includes homing, probe and basic macros. 
+I have not tested this config with any other non-stock parts. This config is relevant to RPi port on Prusa's Einsy board using a Raspberry Pi Zero 2W.
